@@ -1,3 +1,7 @@
+This is a Webapp that analyses the Blockchain and Cryptocurrencies with different constraints that would be applied. 
+
+The backend of the Webapp has been implemented in Python where several libraries like Flask, Pytest, PubNub and many more. 
+The frontend of the webapp has been implemented in the Javascript using the web framework React. 
 **Command Reference**
 
 **Activate the virtual environment**
